@@ -159,3 +159,4 @@ TARGET_USERIMAGES_USE_F2FS := true
 # VINTF
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/vintf/manifest.xml
 PRODUCT_COMPATIBILITY_MATRIX_FILE := $(DEVICE_PATH)/vintf/compatibility_matrix.xml
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := $(DEVICE_PATH)/vintf/framework_compatibility_matrix.xml
